@@ -5,8 +5,8 @@ This is a simple wrapper script for [https://github.com/jiahaog/nativefier](nati
 # Usage
 
 You unleash the powers of alt-tab for AWS Cloud9 by running:
-  
-  npm install && npm run build
+
+    npm install && npm run build
   
 This will generate a nativefier app in ./dist which you can drag into your Applications folder (on Mac).
 Mac users may want to download the [https://github.com/mvhenten/aws-cloud9-nativefier/releases](compiled binary here).
