@@ -1,0 +1,14 @@
+{
+  "name": "aws-cloud9-nativefier",
+  "version": "0.0.1",
+  "description": "Build script wrapper around nativefier",
+  "main": "index.js",
+  "scripts": {
+    "build": "./npm-build.sh"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nativefier": "^7.6.4"
+  }
+}

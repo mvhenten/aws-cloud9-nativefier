@@ -1,0 +1,1 @@
+nativefier --inject link-fix-inject.js --icon aws-cloud9_512x512.png -n "AWS Cloud9" --hide-window-frame --disable-context-menu --single-instance --internal-urls .*amazon.com.* https://console.aws.amazon.com/cloud9/home dist
